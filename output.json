@@ -1,0 +1,54 @@
+[
+  {
+    "city": "Bengaluru",
+    "country_code": "IN",
+    "local_currency": "INR",
+    "amount_local": 1250.5,
+    "fx_rate_to_usd": null,
+    "amount_usd": null,
+    "latitude": 12.97194,
+    "longitude": 77.59369,
+    "temperature_c": 25.7,
+    "wind_speed_mps": 14.3,
+    "retrieved_at": "2025-09-22T06:05:21Z"
+  },
+  {
+    "city": "Berlin",
+    "country_code": "DE",
+    "local_currency": "EUR",
+    "amount_local": 89.9,
+    "fx_rate_to_usd": null,
+    "amount_usd": null,
+    "latitude": 52.52437,
+    "longitude": 13.41053,
+    "temperature_c": 12.1,
+    "wind_speed_mps": 8.1,
+    "retrieved_at": "2025-09-22T06:05:21Z"
+  },
+  {
+    "city": "San Francisco",
+    "country_code": "US",
+    "local_currency": "USD",
+    "amount_local": 42.0,
+    "fx_rate_to_usd": null,
+    "amount_usd": null,
+    "latitude": 37.77493,
+    "longitude": -122.41942,
+    "temperature_c": 15.3,
+    "wind_speed_mps": 5.2,
+    "retrieved_at": "2025-09-22T06:05:21Z"
+  },
+  {
+    "city": "Tokyo",
+    "country_code": "JP",
+    "local_currency": "JPY",
+    "amount_local": 3600.0,
+    "fx_rate_to_usd": null,
+    "amount_usd": null,
+    "latitude": 35.6895,
+    "longitude": 139.69171,
+    "temperature_c": 25.3,
+    "wind_speed_mps": 6.6,
+    "retrieved_at": "2025-09-22T06:05:21Z"
+  }
+]
